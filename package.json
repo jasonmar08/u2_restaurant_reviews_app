@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jasonmar08/u2_restaurant_reviews_app/issues"
   },
-  "homepage": "https://github.com/jasonmar08/u2_restaurant_reviews_app#readme"
+  "homepage": "https://github.com/jasonmar08/u2_restaurant_reviews_app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
